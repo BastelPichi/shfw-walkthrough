@@ -21,6 +21,6 @@
 | Ninebot E2                                                        |  ❌  |   ❌  |     ❌     |                        | Ninebot      |                                        |
 | Ninebot Air T15                                                   |  ❌  |   ✅  |     ❌     |                        | Ninebot      |                                        |
 | Ninebot P100                                                      |  ❌  |   ✅  |     ❌     |                        | Ninebot      |                                        |
-| Ninebot X100                                                      |  ❌  |   ✅  |     ❌     |                        | Ninebot      |                                        |
+| Ninebot X160                                                      |  ❌  |   ✅  |     ❌     |                        | Ninebot      |                                        |
 
 
