@@ -3,13 +3,13 @@
 | Ninebot ESx                                                       |  ✅  |   ✅  |     ✅     |            ❌           | Ninebot      |                                        |
 | Ninebot E22, E25, E45                                             |  ✅  |   ✅  |     ✅     |            ❌           | Ninebot      |                                        |
 | Ninebot F20, F25,  F30, F35, F40                                  |  ✅  |   ✅  |     ✅     |     5.7.X and above    | Ninebot      |                                        |
-| Ninebot G30                                                       |  ✅  |   ✅  |     ✅     | 1.7.3/1.6.13 and above | Ninebot      |                                        |
+| Ninebot G30                                                       |  ✅  |   ✅  |     ✅     |    above 1.7.3/1.6.13  | Ninebot      |                                        |
 | Ninebot D18, D28, D38                                             |  ✅  |   ✅  |     ✅     |            ?           | Ninebot      |                                        |
-| Xiaomi Electric Scooter Pro                                       |  ✅  |   ✅  |     ✅     |    157/157 or above    | Ninebot      |                                        |
-| Xiaomi Electric Scooter Pro 2                                     |  ✅  |   ✅  |     ✅     |    157/157 or above    | Ninebot      |                                        |
-| Xiaomi Electric Scooter Essential                                 |  ✅  |   ✅  |     ✅     |    157/157 or above    | Ninebot      |                                        |
-| Xiaomi Electric Scooter 1S                                        |  ✅  |   ✅  |     ✅     |    157/157 or above    | Ninebot      |                                        |
-| Xiaomi Electric Scooter 3                                         |  ✅  |   ✅  |     ✅     |            ✅           | Ninebot      |                                        |
+| Xiaomi Electric Scooter Pro                                       |  ✅  |   ✅  |     ✅     |    155/157 or above    | Ninebot      |                                        |
+| Xiaomi Electric Scooter Pro 2                                     |  ✅  |   ✅  |     ✅     |        157 or above    | Ninebot      |                                        |
+| Xiaomi Electric Scooter Essential                                 |  ✅  |   ✅  |     ✅     |    155/157 or above    | Ninebot      |                                        |
+| Xiaomi Electric Scooter 1S                                        |  ✅  |   ✅  |     ✅     |        155 or above    | Ninebot      |                                        |
+| Xiaomi Electric Scooter 3                                         |  ✅  |   ✅  |     ✅     |     155 or above       | Ninebot      |                                        |
 | Xiaomi Eletric Scooter M365                                       |  ❌  |   ✅  |     ❌     |                        | Ninebot      | Needs Pro2 dash (any non 4 dot) for SHFW |
 | Ninebot G2                                                        |  ❌  |   ✅  |     ✅     |            ✅           | Ninebot      | SHFW Support in Development, no ETA, possibly another flashing method    |
 | Ninebot F2, F60, F65                                              |  ❌  |   ✅  |     ❌     |                        | Ninebot      | G2 firmware kinda works(?)              |
