@@ -11,13 +11,16 @@
 | Xiaomi Electric Scooter 1S                                        |  ✅  |   ✅  |     ✅     |    157/157 or above    | Ninebot      |                                        |
 | Xiaomi Electric Scooter 3                                         |  ✅  |   ✅  |     ✅     |            ✅           | Ninebot      |                                        |
 | Xiaomi Eletric Scooter M365                                       |  ❌  |   ✅  |     ❌     |                        | Ninebot      | Needs Pro2 dash (any non 4 dot) for SHFW |
-| Ninebot G2                                                        |  ❌  |   ✅  |     ✅     |            ✅           | Ninebot      | SHFW Support in Development, no ETA    |
-| Ninebot F2, F60, F65                                              |  ❌  |   ❌  |     ❌     |            ✅           | Ninebot      | G2 Firmware will not run               |
+| Ninebot G2                                                        |  ❌  |   ✅  |     ✅     |            ✅           | Ninebot      | SHFW Support in Development, no ETA, possibly another flashing method    |
+| Ninebot F2, F60, F65                                              |  ❌  |   ✅  |     ❌     |                        | Ninebot      | G2 firmware kinda works(?)              |
+| Ninebot GT1, GT2                                                  |  ❌  |   ✅  |     ❌     |                        | Ninebot      |                                        |
+| Ninebot G65                                                       |  ❌  |   ✅  |     ❌     |                        | Ninebot      |                                        |
 | Xiaomi Eletric Scooter 3 Lite, 4,  4 Lite, 4 Ultra, 4 Pro 2nd gen |  ❌  |   ❌  |     ❌     |                        | Brightway    | No SHFW Support planned                |
 | Xiaomi Eletric Scooter  4 Lite 2nd gen                            |  ❌  |   ❌  |     ❌     |                        | LEQI         | No SHFW Support planned                |
 | Xiaomi Eletric Scooter 4 Pro, 4 Pro Max, 4 Pro Plus               |  ❌  |   ❌  |     ❌     |                        | Ninebot      | No SHFW Support planned                |
 | Ninebot E2                                                        |  ❌  |   ❌  |     ❌     |                        | Ninebot      |                                        |
 | Ninebot Air T15                                                   |  ❌  |   ✅  |     ❌     |                        | Ninebot      |                                        |
 | Ninebot P100                                                      |  ❌  |   ✅  |     ❌     |                        | Ninebot      |                                        |
+| Ninebot X100                                                      |  ❌  |   ✅  |     ❌     |                        | Ninebot      |                                        |
 
 
