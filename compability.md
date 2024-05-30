@@ -1,4 +1,4 @@
-| Modell                                                            | SHU | SHFW | Reflasher | Needs ST-Link          | Manufacturer | Notes                                  |
+| Modell                                                            | SHFW | SHU | Reflasher | Needs ST-Link          | Manufacturer | Notes                                  |
 |-------------------------------------------------------------------|-----|------|-----------|------------------------|--------------|----------------------------------------|
 | Ninebot ESx                                                       |  ✅  |   ✅  |     ✅     |            ❌           | Ninebot      |                                        |
 | Ninebot E22, E25, E45                                             |  ✅  |   ✅  |     ✅     |            ❌           | Ninebot      |                                        |
