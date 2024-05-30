@@ -18,7 +18,7 @@
 | Xiaomi Eletric Scooter 3 Lite, 4,  4 Lite, 4 Ultra, 4 Pro 2nd gen |  ❌  |   ❌  |     ❌     |                        | Brightway    | No SHFW Support planned                |
 | Xiaomi Eletric Scooter  4 Lite 2nd gen                            |  ❌  |   ❌  |     ❌     |                        | LEQI         | No SHFW Support planned                |
 | Xiaomi Eletric Scooter 4 Pro, 4 Pro Max, 4 Pro Plus               |  ❌  |   ❌  |     ❌     |                        | Ninebot      | No SHFW Support planned                |
-| Ninebot E2                                                        |  ❌  |   ❌  |     ❌     |                        | Ninebot      |                                        |
+| Ninebot E2                                                        |  ❌  |   ✅  |     ❌     |                        | Ninebot      |                                        |
 | Ninebot Air T15                                                   |  ❌  |   ✅  |     ❌     |                        | Ninebot      |                                        |
 | Ninebot P100                                                      |  ❌  |   ✅  |     ❌     |                        | Ninebot      |                                        |
 | Ninebot X160                                                      |  ❌  |   ✅  |     ❌     |                        | Ninebot      |                                        |
